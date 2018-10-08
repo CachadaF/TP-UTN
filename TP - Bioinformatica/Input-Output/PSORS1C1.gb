@@ -1,0 +1,224 @@
+LOCUS       NM_014068                913 bp    mRNA    linear   PRI 06-OCT-2016
+DEFINITION  Homo sapiens psoriasis susceptibility 1 candidate 1 (PSORS1C1),
+            mRNA.
+ACCESSION   NM_014068
+VERSION     NM_014068.2
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 913)
+  AUTHORS   He M, Xu M, Zhang B, Liang J, Chen P, Lee JY, Johnson TA, Li H,
+            Yang X, Dai J, Liang L, Gui L, Qi Q, Huang J, Li Y, Adair LS, Aung
+            T, Cai Q, Cheng CY, Cho MC, Cho YS, Chu M, Cui B, Gao YT, Go MJ, Gu
+            D, Gu W, Guo H, Hao Y, Hong J, Hu Z, Hu Y, Huang J, Hwang JY, Ikram
+            MK, Jin G, Kang DH, Khor CC, Kim BJ, Kim HT, Kubo M, Lee J, Lee J,
+            Lee NR, Li R, Li J, Liu J, Longe J, Lu W, Lu X, Miao X, Okada Y,
+            Ong RT, Qiu G, Seielstad M, Sim X, Song H, Takeuchi F, Tanaka T,
+            Taylor PR, Wang L, Wang W, Wang Y, Wu C, Wu Y, Xiang YB, Yamamoto
+            K, Yang H, Liao M, Yokota M, Young T, Zhang X, Kato N, Wang QK,
+            Zheng W, Hu FB, Lin D, Shen H, Teo YY, Mo Z, Wong TY, Lin X, Mohlke
+            KL, Ning G, Tsunoda T, Han BG, Shu XO, Tai ES, Wu T and Qi L.
+  TITLE     Meta-analysis of genome-wide association studies of adult height in
+            East Asians identifies 17 novel loci
+  JOURNAL   Hum. Mol. Genet. 24 (6), 1791-1800 (2015)
+   PUBMED   25429064
+REFERENCE   2  (bases 1 to 913)
+  AUTHORS   Galanter JM, Gignoux CR, Torgerson DG, Roth LA, Eng C, Oh SS,
+            Nguyen EA, Drake KA, Huntsman S, Hu D, Sen S, Davis A, Farber HJ,
+            Avila PC, Brigino-Buenaventura E, LeNoir MA, Meade K, Serebrisky D,
+            Borrell LN, Rodriguez-Cintron W, Estrada AM, Mendoza KS, Winkler
+            CA, Klitz W, Romieu I, London SJ, Gilliland F, Martinez F,
+            Bustamante C, Williams LK, Kumar R, Rodriguez-Santana JR and
+            Burchard EG.
+  TITLE     Genome-wide association study and admixture mapping identify
+            different asthma-associated loci in Latinos: the Genes-environments
+            & Admixture in Latino Americans study
+  JOURNAL   J. Allergy Clin. Immunol. 134 (2), 295-305 (2014)
+   PUBMED   24406073
+  REMARK    GeneRIF: The association has been found between PSORS1C1 SNPs and
+            asthma in Hispanic Americans.
+REFERENCE   3  (bases 1 to 913)
+  AUTHORS   Sun H, Xu B, Meng Q, Yang Q and Chang X.
+  TITLE     PSORS1C1/CDSN is associated with ankylosing spondylitis
+  JOURNAL   Joint Bone Spine 81 (3), 268-272 (2014)
+   PUBMED   24210685
+  REMARK    GeneRIF: PSORS1C1/CDSN gene may play a pathogenic role in
+            ankylosing spondylitis
+REFERENCE   4  (bases 1 to 913)
+  AUTHORS   Chubb D, Weinhold N, Broderick P, Chen B, Johnson DC, Forsti A,
+            Vijayakrishnan J, Migliorini G, Dobbins SE, Holroyd A, Hose D,
+            Walker BA, Davies FE, Gregory WA, Jackson GH, Irving JA, Pratt G,
+            Fegan C, Fenton JA, Neben K, Hoffmann P, Nothen MM, Muhleisen TW,
+            Eisele L, Ross FM, Straka C, Einsele H, Langer C, Dorner E, Allan
+            JM, Jauch A, Morgan GJ, Hemminki K, Houlston RS and Goldschmidt H.
+  TITLE     Common variation at 3q26.2, 6p21.33, 17p11.2 and 22q13.1 influences
+            multiple myeloma risk
+  JOURNAL   Nat. Genet. 45 (10), 1221-1225 (2013)
+   PUBMED   23955597
+REFERENCE   5  (bases 1 to 913)
+  AUTHORS   Sun H, Xia Y, Wang L, Wang Y and Chang X.
+  TITLE     PSORS1C1 may be involved in rheumatoid arthritis
+  JOURNAL   Immunol. Lett. 153 (1-2), 9-14 (2013)
+   PUBMED   23769905
+  REMARK    GeneRIF: this study demonstrates that SNPs in the PSORS1C1-encoding
+            gene have a strong association with RA.
+REFERENCE   6  (bases 1 to 913)
+  AUTHORS   Rahman P, Butt C, Siannis F, Farewell VT, Peddle L, Pellett FJ,
+            Schentag C and Gladman DD.
+  TITLE     Association of SEEK1 and psoriatic arthritis in two distinct
+            Canadian populations
+  JOURNAL   Ann. Rheum. Dis. 64 (9), 1370-1372 (2005)
+   PUBMED   15708881
+  REMARK    GeneRIF: Observational study of gene-disease association. (HuGE
+            Navigator)
+REFERENCE   7  (bases 1 to 913)
+  AUTHORS   Chang YT, Liu HN, Shiao YM, Lin MW, Lee DD, Liu MT, Wang WJ, Wu S,
+            Lai CY and Tsai SF.
+  TITLE     A study of PSORS1C1 gene polymorphisms in Chinese patients with
+            psoriasis
+  JOURNAL   Br. J. Dermatol. 153 (1), 90-96 (2005)
+   PUBMED   16029332
+  REMARK    GeneRIF: Observational study of gene-disease association. (HuGE
+            Navigator)
+REFERENCE   8  (bases 1 to 913)
+  AUTHORS   Peddle L, Zipperlen K, Melay B, Hefferton D and Rahman P.
+  TITLE     Association of SEEK1 polymorphisms in Crohn's disease
+  JOURNAL   Hum. Immunol. 65 (7), 706-709 (2004)
+   PUBMED   15301859
+  REMARK    GeneRIF: SEEK1 polymorphisms +39604, +39709, and +26680 are not
+            associated with Crohn's disease in the Newfoundland population.
+            GeneRIF: Observational study of gene-disease association. (HuGE
+            Navigator)
+REFERENCE   9  (bases 1 to 913)
+  AUTHORS   Holm SJ, Carlen LM, Mallbris L, Stahle-Backdahl M and O'Brien KP.
+  TITLE     Polymorphisms in the SEEK1 and SPR1 genes on 6p21.3 associate with
+            psoriasis in the Swedish population
+  JOURNAL   Exp. Dermatol. 12 (4), 435-444 (2003)
+   PUBMED   12930300
+  REMARK    GeneRIF: In a case-control study, five of the nine single
+            nucleotide polymorphisms (SNPs) found in SEEK1 were associated with
+            psoriasis, while one of the four SNPs found in SPR1 showed
+            association.
+REFERENCE   10 (bases 1 to 913)
+  AUTHORS   Oka A, Tamiya G, Tomizawa M, Ota M, Katsuyama Y, Makino S, Shiina
+            T, Yoshitome M, Iizuka M, Sasao Y, Iwashita K, Kawakubo Y, Sugai J,
+            Ozawa A, Ohkido M, Kimura M, Bahram S and Inoko H.
+  TITLE     Association analysis using refined microsatellite markers localizes
+            a susceptibility locus for psoriasis vulgaris within a 111 kb
+            segment telomeric to the HLA-C gene
+  JOURNAL   Hum. Mol. Genet. 8 (12), 2165-2170 (1999)
+   PUBMED   10545595
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AF484418.1, DB454051.1,
+            BI825917.1 and AI243345.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On May 14, 2010 this sequence version replaced gi:7662660.
+            
+            Summary: This gene is one of several genes thought to confer
+            susceptibility to psoriasis and systemic sclerosis, located on
+            chromosome 6 near the major histocompatibility complex (MHC) class
+            I region. [provided by RefSeq, Sep 2011].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AF484418.1, AB031479.1 [ECO:0000332]
+            RNAseq introns              :: mixed/partial sample support
+                                           SAMEA2144333, SAMEA2156266
+                                           [ECO:0000350]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-388               AF484418.1         2-389
+            389-701             DB454051.1         176-488
+            702-854             BI825917.1         364-516
+            855-913             AI243345.1         1-59                c
+FEATURES             Location/Qualifiers
+     source          1..913
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="6"
+                     /map="6p21.33"
+     gene            1..913
+                     /gene="PSORS1C1"
+                     /gene_synonym="C6orf16; SEEK1"
+                     /note="psoriasis susceptibility 1 candidate 1"
+                     /db_xref="GeneID:170679"
+                     /db_xref="HGNC:HGNC:17202"
+                     /db_xref="MIM:613525"
+     exon            1..61
+                     /gene="PSORS1C1"
+                     /gene_synonym="C6orf16; SEEK1"
+                     /inference="alignment:Splign:1.39.8"
+     exon            62..225
+                     /gene="PSORS1C1"
+                     /gene_synonym="C6orf16; SEEK1"
+                     /inference="alignment:Splign:1.39.8"
+     misc_feature    164..166
+                     /gene="PSORS1C1"
+                     /gene_synonym="C6orf16; SEEK1"
+                     /note="upstream in-frame stop codon"
+     STS             206..798
+                     /gene="PSORS1C1"
+                     /gene_synonym="C6orf16; SEEK1"
+                     /db_xref="UniSTS:483722"
+     exon            226..302
+                     /gene="PSORS1C1"
+                     /gene_synonym="C6orf16; SEEK1"
+                     /inference="alignment:Splign:1.39.8"
+     CDS             290..748
+                     /gene="PSORS1C1"
+                     /gene_synonym="C6orf16; SEEK1"
+                     /codon_start=1
+                     /product="psoriasis susceptibility 1 candidate gene 1
+                     protein"
+                     /protein_id="NP_054787.2"
+                     /db_xref="CCDS:CCDS34390.1"
+                     /db_xref="GeneID:170679"
+                     /db_xref="HGNC:HGNC:17202"
+                     /db_xref="MIM:613525"
+                     /translation="MTCTDQKSHSQRALGTQTPALQGPQLLNTDPSSEETRPPHVNPD
+                     RLCHMEPANHFWHAGDLQAMISKEFHLAATQDDCRKGRTQEDILVPSSHPELFASVLP
+                     MAPEEAARLQQPQPLPPPSGIHLSASRTLAPTLLYSSPPSHSPFGLSSLI"
+     exon            303..332
+                     /gene="PSORS1C1"
+                     /gene_synonym="C6orf16; SEEK1"
+                     /inference="alignment:Splign:1.39.8"
+     exon            333..456
+                     /gene="PSORS1C1"
+                     /gene_synonym="C6orf16; SEEK1"
+                     /inference="alignment:Splign:1.39.8"
+     exon            457..908
+                     /gene="PSORS1C1"
+                     /gene_synonym="C6orf16; SEEK1"
+                     /inference="alignment:Splign:1.39.8"
+     STS             668..806
+                     /gene="PSORS1C1"
+                     /gene_synonym="C6orf16; SEEK1"
+                     /standard_name="RH47968"
+                     /db_xref="UniSTS:25612"
+ORIGIN      
+        1 ggtgtcccag aaacccagga aatcgagact catgactccc agagaggatg gcatctagaa
+       61 gtagacgatc aagggtggaa tctacagtcc gtgggccctg acttcttgcc ttcgtctcaa
+      121 atagactctg cagccagcca tctatgcagc gccccagtgg ctttgaaatg caacagaaac
+      181 catcaccccc ggaccgtggg ctccatgcca gtgggcaaag cacagcctgg gaagaattgg
+      241 tttgcagcca ggcagtcctc catccagtct tgactttggc acttgtgata tgacttgcac
+      301 agaccaaaaa agtcactctc aaagagctct cggcacacag accccagctt tacaaggacc
+      361 ccagctcctt aacacagatc ccagctccga ggaaactcgt cccccccacg ttaatcctga
+      421 ccgactttgc cacatggagc cagcaaacca tttctggcat gcaggggacc tccaagcaat
+      481 gatatccaag gaattccatc tggcagccac ccaggatgac tgcagaaaag gaaggacaca
+      541 ggaggatatc ctggttccct cttcccaccc agagctgttt gcatcagtcc tgccaatggc
+      601 tccggaagaa gctgccaggc tccagcaacc tcagcccctt cctcctccct caggaatcca
+      661 cctatccgcc tctaggacct tggctccaac tctattgtac tcgtctcctc cctcccattc
+      721 tccttttggt ctcagctcct tgatctaagc ctcccagaga gacccctaga acgtttccct
+      781 caaggacctt tctgcctgga agtctgttag cctttcagaa gtaacatgtc caaaataaaa
+      841 tttgattcct cccaggttgt tccctgcctg gtccgctacc ccacagtaag gaacacctta
+      901 ttatgcaaaa aaa
+//
+

@@ -1,0 +1,50 @@
+Ejercicio 1)
+
+Ejecucion: perl Ex1.pl /home/manager/Desktop/Tp-Bio/PSORS1C1.genbank
+		
+Input:
+	Algo.genbank -> En nuestro caso es el PSORS1C1.genbank
+
+Output: 
+	ex1_output_fasta.fas -> Archivo en formato FASTA con la traduccion correcta (Mas larga) de la secuencia del Genbank.
+	ex1_output_6_frames.txt -> Texto con los transalates de los 6 frames.
+ 	
+Ejercicio 2.a)
+
+Ejecucion Local blast:  perl Ex2a_Local.pl /home/manager/Desktop/Tp-Bio/ex1_output_fasta.fas
+
+Ejecucion Remote blast: perl Ex2a_Remote.pl /home/manager/Desktop/Tp-Bio/ex1_output_fasta.fas 
+	
+Input:
+	Algo.FASTA -> En nuestro caso es el ex1_output_fasta.fas
+
+Output: 
+	blast_local.out -> Necesita tener la swissprot.gz , realiza un blast a nivel local sobre el fasta de input.
+	blast_remote.out -> Realiza un blast de forma remota, sobre el fasta de input.
+
+Ejercicio 3)
+
+Ejecucion: perl Ex1.pl /home/manager/Desktop/Tp-Bio/blast_local.out patron
+		
+		patron -> Debe ser especificado el patron de coincidencia que se va a utilizar, ademas de la direccion del archivo blast.
+		
+Input:
+	blast_local.out -> En nuestro caso es el BLAST, sea local o remoto, usado sobre nuestro fasta_output del punto 1.
+
+Output: 
+	output_file_fasta_ex3 -> Lista de hits que coinciden con el patron en el archivo de texto.
+
+Ejercicio 4)
+
+Ejecucion: perl Ex4.pl /home/manager/Desktop/Tp-Bio/ex1_output_fasta.fas
+		
+Input:
+	Algo.FASTA -> En nuestro caso es el ex1_output_fasta.fas
+
+Output: 
+	ex4_output_orf.txt -> Este texto de output posee el getorf.
+	ex4_output_EMBOSS.txt -> Este texto posee el output del patmatmotifs.
+
+Aclaracion del 4:
+		- patmatmotifs -> Lo tuvimos que correr usando system porque no tomaba los parametros de la sequencia a traves del EMBOSS.
+		- getorf -> Funciono correctamente usando las funciones de Bioperl que provee EMBOSS.

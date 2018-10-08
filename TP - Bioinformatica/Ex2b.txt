@@ -1,0 +1,224 @@
+Ejercicio 2.b)
+
+Se puede observar entre los 3 primeros (p76536.1, q9z1k9.1 , q9z0f8.3) 
+	que son los mas similares en el alineamiento debido a que son los que mas score poseen.
+
+https://www.ebi.ac.uk/Tools/services/web/toolresult.ebi?jobId=clustalo-I20161115-174445-0001-3459460-oy&tool=clustalo&showColors=true
+
+CLUSTAL O(1.2.3) multiple sequence alignmen
+
+
+P78536.1      ------MRQSLLFLTSVVPFVLAPRPP---DDPGFGPHQR---LEKLDSLLSDYDILSLS
+Q9Z1K9.1      ------MRQRLLFLTTLVPFVLAPRPP---EEPGSGSHLR---LEKLDSLLSDYDILSLS
+Q9Z0F8.3      ------MRRRLLILTTLVPFVLAPRPP---EEAGSGSHPR---LEKLDSLLSDYDILSLA
+Q9N2I1.1      MADKVLKEKRRLFVRSVA-------------------------MGTINGLLDELLETRVL
+Q5FAJ0.1      -----MTEQNRILCRELSLLAFNRRVLAQAEDKNVPLLERLRFLCIVSSNLDEFFEVRMA
+Q9JW42.1      -----MPEQNRILCRELSLLAFNRRVLAQAEDKNVPLLERLRFLCIVSSNLDEFFEVRMA
+Q9JXS9.2      -----MPEQNRILCRELSLLAFNRRVLAQAEDQNVPLLERLRFLCIVSSNLDEFFEVRMA
+Q12BC9.1      ----------------------------------------------------------MN
+C4Y7Q2.1      ----------------------------------------------------------MK
+Q6Z7V2.1      ------------------------------------------------------------
+                                                                          
+
+P78536.1      N----IQ-QHSVRKRDLQTSTHVETLLTFSALKR-----HFKLYLTSSTERFSQNFKVVV
+Q9Z1K9.1      N----IQ-QHSIRKRDLQSATHLETLLTFSALKR-----HFKLYLTSSTERFSQNLRVVV
+Q9Z0F8.3      N----IQ-QHSIRKRDLQSATHLETLLTFSALKR-----HFKLYLTSSTERFSQNLRVVV
+Q9N2I1.1      NQ-------------E-EVEIVRGENATVMDKARALIDS-------VIR-----------
+Q5FAJ0.1      W-LKRENKLHPRRRPD-NGKMPSETIADVTEAARSLIRHQYDLFNNVLQPELARE-SIHF
+Q9JW42.1      W-LKRENKLHPRRRLD-NGKMPSETIADVTEAARSLIRHQYDLFNNVLQPELARE-SIHF
+Q9JXS9.2      W-LKREHKRCPQRRLD-NGKMPSETIADVTEAARSLIRHQYDLFNNVLQPELAQE-GIHF
+Q12BC9.1      IKLDKVSARHPAAKRD-AAAALRGVSLEVSAGEQ------IA----VIGP----------
+C4Y7Q2.1      HLTRAVRPLHVQAAPV-AASAHPGALSRVPSAAA------VD----LPAP----------
+Q6Z7V2.1      ------------------------------------------------------------
+                                                                          
+
+P78536.1      VDGKNESEYTVKWQD---------------------------------------------
+Q9Z1K9.1      VDGKEESEYSVKWQD---------------------------------------------
+Q9Z0F8.3      VDGKEESEYSVKWQN---------------------------------------------
+Q9N2I1.1      ------KGPQAC-------------------------------------QICINHICGDD
+Q5FAJ0.1      YRRRNWTGTQKKWIEDYFDRELLPILTPIGLDPSHPFPRPLNKSLNFAVELDGTDAFGRP
+Q9JW42.1      YRRRNWTGAQKKWIEDYFDRELLPILTPIGLDPSHPFPRPLNKSLNFAVELDGTDAFGRP
+Q9JXS9.2      YRRRNWTDTQKKWIEDYFDRELLPILTPIGLDPSHPFPRPLNKSLNFAVELDGTDAFGRP
+Q12BC9.1      ------SGAGKTTLLHVLG-------------------------------------CALP
+C4Y7Q2.1      ------T-PGDQVRLQAL---------------------------------------GSP
+Q6Z7V2.1      ------------------------------------------------------------
+                                                                          
+
+P78536.1      ------------------------------------------FFTG-HVVGEPDSRVLAH
+Q9Z1K9.1      ------------------------------------------FFSG-HVVGEPDSRVLAH
+Q9Z0F8.3      ------------------------------------------FFSG-HVVGEPDSRVLAH
+Q9N2I1.1      PHLAGVL------------ELSTGSQSGKCLTVQESQAVVPPFPAPQTVQDNPVKPASSE
+Q5FAJ0.1      SGMAIVQAPRILPRVVPLPSELCGGGHGFVFLSSILHAHVGKLFPGMNVKGCHQFRLT--
+Q9JW42.1      SGMAIVQAPRILPRVVPLPSELCGGGHGFVFLSSILHAHVGKLFPGMNVKGCHQFRLT--
+Q9JXS9.2      SGMAIVQAPRILPRVVPLPSELCGGGHGFVFLSSILHAHVGKLFPGMNVKGCHQFRLT--
+Q12BC9.1      PSSGSLQLNARDPWRLPRSKLQLLRGELF--LA----PQVPPLPPRQRVVTSV-------
+C4Y7Q2.1      PSVASVAVPPSLPVFVRRGSVLAVSGRIDRIVS----AFVAPMWLRRLTLGNIVSRYQ--
+Q6Z7V2.1      --MASIVASKRIPLFRLVEQL---------------------------------------
+                                                                          
+
+P78536.1      IRDDDVIIRINTDGAEYNIEPLWRFVND--------TKDKR--MLVYKSEDIKNVSRLQS
+Q9Z1K9.1      IGDDDVTVRINTDGAEYNIEPLWRFVND--------TKDKR--MLVYKSEDIKDFSRLQS
+Q9Z0F8.3      IGDDDVTVRINTDGAEYNVEPLWRFVND--------TKDKR--MLVYKSEDIKDFSRLQS
+Q9N2I1.1      PRGSLKLC------PPDIAQRLWKEKSAEIYPIMGKSIRT-RLALIICNTEFENLPRRDG
+Q5FAJ0.1      -RDSDLTV------DEEDVQNL----RA-------------AIQNELHDREYGDGVRLEV
+Q9JW42.1      -RDSDLTV------DEEDLQNL----RA-------------AIQNELHDREYGDGVRLEV
+Q9JXS9.2      -RDSDLTV------DEEDLQNL----RA-------------AIQNELHDREYGDGVRLEV
+Q12BC9.1      -----L-A------GRLPHIGLWQSLRSLFYPTAIAQADAALARFDLSDKLFARVDRLSG
+C4Y7Q2.1      -R---L-V------ATEPFAVLASASAPSLWPQLVRRATP---------RSFASLT-LDG
+Q6Z7V2.1      -------L------AASPAQGA----ASALRPVAVAG-GS---------RAYN-------
+                                                                          
+
+P78536.1      PKVCGYLKV---------DNEELLPK----GLVDREPP--EELVHRVKRRA--DPDPMKN
+Q9Z1K9.1      PKVCGYLNA---------DSEELLPK----GLIDREPS--EEFVRRVKRRA--EPNPLKN
+Q9Z0F8.3      PKVCGYLNA---------DSEELLPK----GLIDREPS--EEFVRRVKRRA--EPNPLKN
+Q9N2I1.1      ADVDI---RDMKI----LLEDLGYSVDVRENLTA------SDMAIELKAFAA---RPEH-
+Q5FAJ0.1      ADTCPAYIRDFLLAQFRLTDAELYQV------------KGPVNLVRLNAVPDLVNRPDL-
+Q9JW42.1      ADTCPAYIRDFLLAQFKLTAAELYQV------------KGPVNLVRLNAVPDLVNRPDL-
+Q9JXS9.2      ADTCPAYIRDFLLAQFKLTAAELYQV------------KGPVNLVRLNAVPDLVNRPDL-
+Q12BC9.1      GERQR-----VGLARALVTEASLLLVD--EPLSALDPTRGQQAIASLTQAARERGATLVS
+C4Y7Q2.1      TAD-W----------AVLKRDALQVY------------AGPALTLSVHAAPQRISRRLAQ
+Q6Z7V2.1      --------------------------------------TGAQL--------RRH------
+                                                                          
+
+P78536.1      TCKLLVVADHRFYRYMGRGEESTTTNYLIEL---IDRVDDIYR-----------------
+Q9Z1K9.1      TCKLLVVADHRFYKYMGRGEESTTTNYLIEL---IDRVDDIYR-----------------
+Q9Z0F8.3      TCKLLVVADHRFYKYMGRGEESTTTNYLIEL---IDRVDDIYR-----------------
+Q9N2I1.1      ------------------KSSDSTFLVLMSHGIQAGICGKKYSEEVPDVLEVNTVFQILN
+Q5FAJ0.1      -----KFPPHTPGRLKALGKNSPIFDLVRQSPI-L--LHHPYQSFDP----------VVD
+Q9JW42.1      -----KFPTHTPGRLKALGKTASIFDLVRQSPI-L--LHHPYQSFDP----------VVE
+Q9JXS9.2      -----KFPTHTPGRLKALGKTASIFDLVRQSPI-L--LHHPYQSFDP----------VVE
+Q12BC9.1      TLHHVEMALQNFPRIIGLRDGELAFDLPAAQVT-PERLQALYAQHLHE----LTGP-AHE
+C4Y7Q2.1      SL-------NTSRIPTGLRRTGYTFVSGRGVVA-LAGHGSVYAARVA-ADEQLTVA-RSS
+Q6Z7V2.1      ------------------ERDESDDDSGR-----------GYDTRRPTRDATMPAF-FSD
+                                                       *                  
+
+P78536.1      ------------------------NTSWDNAGFKGYGIQIEQIRI-LKSPQEVKPGEKHY
+Q9Z1K9.1      ------------------------NTSWDNAGFKGYGVQIEQIRI-LKSPQEVKPGERHF
+Q9Z0F8.3      ------------------------NTSWDNAGFKGYGVQIEQIRI-LKSPQEVKPGERHF
+Q9N2I1.1      TLNCPSLKDKPKVIIIQACRGEKQGVVWIKDSVGPSGNSSLLAAEDFEYDAI-KKAHIEK
+Q5FAJ0.1      MI--REAAADPAV---LAVKM----------TIYRTGTRSELVPALMKAALADKQVTVVV
+Q9JW42.1      MM--REAAADPDV---LAVKM----------TIYRTGTRSELVRALMKAALAGKQVTVVV
+Q9JXS9.2      MM--REAAADPAV---LAVKM----------TIYRTGTRSELVRALMKAALAGKQVTVVV
+Q12BC9.1      AFDLPAAATPPAV---MHCR----------------------------------------
+C4Y7Q2.1      IVAIS-VNGPHDL---HNCV------------------------AQMPQTQASAAGS--A
+Q6Z7V2.1      VFRDP-FSAPQSL---GRLL------------------------SLMD-DLATPAGR--A
+                                                                          
+
+P78536.1      N-MAKSYPNEEKDAWDVKMLLEQFS-------FDIAEEASKVCLAHLFTYQDFDMGTL-G
+Q9Z1K9.1      N-MAKSFPNEEKDAWDVKMLLEQFS-------LDIAEEASKVCLAHLFTYQDFDMGTL-G
+Q9Z0F8.3      N-MAKSFPNEEKDAWDVKMLLEQFS-------FDIAEEASKVCLAHLFTYQDFDMGTL-G
+Q9N2I1.1      DFIAFCSSTPDNVSWRHPLLGSLFI--I-KLIKILQEHAWSCGLEEIFRKVRFSFELADG
+Q5FAJ0.1      E-LMARFDEANNVNWAKQLEEAGAHVVYGVFGYKVH------------AKMALVIRREDG
+Q9JW42.1      E-LMARFDEANNVNWAKQLEEAGAHVVYGVFGYKVH------------AKMALVIRREDG
+Q9JXS9.2      E-LMARFDEANNVNWAKQLEEAGAHVVYGVFGYKVH------------AKMALVIRREDG
+Q12BC9.1      ------------------------------------------------------------
+C4Y7Q2.1      G-SATSAAGSNSRKWTDLKWKDVVPWVRGVWSKLVSAPRWGSGFVRVSGPRTVLLQSG-G
+Q6Z7V2.1      G-AATLR-----RGWNAKESEEALH-------LRVDMPGLGKEHVKVWAEQNSLVIKGEG
+                                                                          
+
+P78536.1      L--AYVGSPRANSHGGVCPKAYY---------------------------SPVGKKNIYL
+Q9Z1K9.1      L--AYVGSPRANSHGGVCPKAYY---------------------------NPGVKKNIYL
+Q9Z0F8.3      L--AYVGSPRANSHGGVCPKAYY---------------------------NPTVKKNIYL
+Q9N2I1.1      RAQMPTA----E---------------RVTLTR-----------------------SFYL
+Q5FAJ0.1      VLKRYAHLGTGNYHQG-TSRIYTDFG-LITADEQITADVNTLFMEITGLGKPGRLNKLYQ
+Q9JW42.1      VLKRYAHLGTGNYHQG-TSRIYTDFG-IITADEQITADVNTLFMEITGLGKPGRLNKLYQ
+Q9JXS9.2      VLKRYAHLGTGNYHQG-TSRIYTDFG-LITADEQITADVNILFMEITGLGKPGRLNKLYQ
+Q12BC9.1      ------------------------------------------------------------
+C4Y7Q2.1      AQQMWEHTVRGPRSAS-APKVSADYLNVVTFDQ-----------------------A--H
+Q6Z7V2.1      EKEAGED------EGA-AP---ARYSGRIELAP-----------------------EVYR
+                                                                          
+
+P78536.1      NSGLTSTKNYGKTILTKEADLVTTHELGHNFGAEHDPDGLAECAPNEDQGGKYVMYPIAV
+Q9Z1K9.1      NSGLTSTKNYGKTILTKEADLVTTHELGHNFGAEHDPDGLAECAPNEDQGGKYVMYPIAV
+Q9Z0F8.3      NSGLTSTKNYGKTILTKEADLVTTHELGHNFGAEHDPDGLAECAPNEDQGGKYVMYPIAV
+Q9N2I1.1      FPGH--------------------------------------------------------
+Q5FAJ0.1      SPFTLHKMVIGRIARETE----------------HA------------KAGKPAR----I
+Q9JW42.1      SPFTLHKMVIDRIARETE----------------HA------------KAGKPAR----I
+Q9JXS9.2      SPFTLHKMVIDRIARETE----------------HA------------KAGKPAR----I
+Q12BC9.1      ------------------------------------------------------------
+C4Y7Q2.1      RPEIRSTSDFGEAVRAIE----------------KT------------K-----------
+Q6Z7V2.1      MDQIKAEMKNGVLKVVVP----------------KV------------KEE---------
+                                                                          
+
+P78536.1      SGDHENNKMFSNCSKQSIYKTIESKAQECFQERSNKVCGNSRVDEGEECDPGIMYLNNDT
+Q9Z1K9.1      SGDHENNKMFSNCSKQSIYKTIESKAQECFQERSNKVCGNSRVDEGEECDPGIMYLNNDT
+Q9Z0F8.3      SGDHENNKMFSNCSKQSIYKTIESKAQECFQERSNKVCGNSRVDEGEECDPGIMYLNNDT
+Q9N2I1.1      ------------------------------------------------------------
+Q5FAJ0.1      T--AKMNSLIEPTVIEALYRA------------------------------SAAGVQIDL
+Q9JW42.1      T--AKMNSLIEPTVIEALYRA------------------------------SAAGVQIDL
+Q9JXS9.2      T--AKMNSLIEPTVIEALYRA------------------------------SAAGVQIDL
+Q12BC9.1      ------------------------------------------------------------
+C4Y7Q2.1      ------------------------------------------------------------
+Q6Z7V2.1      ------------------------------------------------------------
+                                                                          
+
+P78536.1      CCNSDCTLKEGVQCSDRNSPCCK--NCQFETAQKKCQEAINATCKGVSYCTGNSSECPPP
+Q9Z1K9.1      CCNSDCTLKPGVQCSDRNSPCCK--NCQFETAQKKCQEAINATCKGVSYCTGNSSECPPP
+Q9Z0F8.3      CCNSDCTLKPGVQCSDRNSPCCK--NCQFETAQKKCQEAINATCKGVSYCTGNSSECPPP
+Q9N2I1.1      ------------------------------------------------------------
+Q5FAJ0.1      IVRGMCTLRPGVKGLSENIRVRSIVGRQLEHAR--------------VYCFHNNG-----
+Q9JW42.1      IVRGMCTLRPGVKGLSENIRVRSIIGRQLEHAR--------------VYCFHNNG-----
+Q9JXS9.2      IVRGMCTLRPGVKGLSENIRVRSIVGRQLEHAR--------------VYYFHNNG-----
+Q12BC9.1      ------------------------------------------------------------
+C4Y7Q2.1      ------------------------------------------------------------
+Q6Z7V2.1      ------------------------------------------------------------
+                                                                          
+
+P78536.1      GNAEDDTVCLDLGKCKDGKCIPFCEREQQLESCACNETDNSCKVCCRDLSGRCVPYVDAE
+Q9Z1K9.1      GDAEDDTVCLDLGKCKAGKCIPFCKREQELESCACADTDNSCKVCCRNLSGPCVPYVDAE
+Q9Z0F8.3      GDAEDDTVCLDLGKCKAGKCIPFCKREQELESCACVDTDNSCKVCCRNLSGPCVPYVDAE
+Q9N2I1.1      ------------------------------------------------------------
+Q5FAJ0.1      ---ADDTFISS-ADWM-G--RNFFRRIE-----------------------TATPITAPE
+Q9JW42.1      ---ADDTFISS-ADWM-G--RNFFRRIE-----------------------TAAPITAPE
+Q9JXS9.2      ---TDDTFISS-ADWM-G--RNFFRRIE-----------------------TATPITAPE
+Q12BC9.1      ------------------------------------------------------------
+C4Y7Q2.1      ------------------------------------------------------------
+Q6Z7V2.1      ------------------------------------------------------------
+                                                                          
+
+P78536.1      QKNLFLRKGKPC-------------TVGFCDMNGKCEKRVQDVIERFWDFIDQLSINTFG
+Q9Z1K9.1      QKNLFLRKGKPC-------------TVGFCDMNGKCEKRVQDVIERFWDFIDQLSINTFG
+Q9Z0F8.3      QKNLFLRKGKPC-------------TVGFCDMNGKCEKRVQDVIERFWDFIDQLSINTFG
+Q9N2I1.1      ------------------------------------------------------------
+Q5FAJ0.1      LKKRVIREGLEMALADNTHAWLMQPDGGYIRAAPAEGESEADLQNDLWDLLRG-------
+Q9JW42.1      LKKRVIREGLEMALADNTHAWLMQPDGGYIRAAPAEGESEADLQNDLWTLLGG-------
+Q9JXS9.2      LKKRVIHEGLTMALDDNTHAWLMQPDGGYIRAAPAEGESEADLQNDLWTLLGG-------
+Q12BC9.1      ------------------------------------------------------------
+C4Y7Q2.1      ------------------------------------------------------------
+Q6Z7V2.1      QRRDVFQVNVE-------------------------------------------------
+                                                                          
+
+P78536.1      KFLADNIVGSVLVFSLIFWIPFSILVHCVDKKLDKQYESLSLFHPSNVEMLSSMDSASVR
+Q9Z1K9.1      KFLADNIVGSVLVFSLIFWIPFSILVHCVDKKLDKQYESLSLFHHSNIEMLSSMDSASVR
+Q9Z0F8.3      KFLADNIVGSVLVFSLIFWIPFSILVHCVDKKLDKQYESLSLFHHSNIEMLSSMDSASVR
+Q9N2I1.1      ------------------------------------------------------------
+Q5FAJ0.1      ------------------------------------------------------------
+Q9JW42.1      ------------------------------------------------------------
+Q9JXS9.2      ------------------------------------------------------------
+Q12BC9.1      ------------------------------------------------------------
+C4Y7Q2.1      ------------------------------------------------------------
+Q6Z7V2.1      ------------------------------------------------------------
+                                                                          
+
+P78536.1      IIKPFPAPQTPGRL---QPAPVIPSAPAAPKLDHQRMDTIQEDPSTDSHMDEDGFEKDPF
+Q9Z1K9.1      IIKPFPAPQTPGRLQALQPAAMMPPVSAAPKLDHQRMDTIQEDPSTDSHVDDDGFEKDPF
+Q9Z0F8.3      IIKPFPAPQTPGRLQALQPAAMMPPVPAAPKLDHQRMDTIQEDPSTDSHADDDGFEKDPF
+Q9N2I1.1      ------------------------------------------------------------
+Q5FAJ0.1      ------------------------------------------------------------
+Q9JW42.1      ------------------------------------------------------------
+Q9JXS9.2      ------------------------------------------------------------
+Q12BC9.1      ------------------------------------------------------------
+C4Y7Q2.1      ------------------------------------------------------------
+Q6Z7V2.1      ------------------------------------------------------------
+                                                                          
+
+P78536.1      PNSSTAAKSFEDLTDHPVTRSEKAASFKLQRQNRVDSKETEC
+Q9Z1K9.1      PNSSAAAKSFEDLTDHPVTRSEKAASFKLQRQSRVDSKETEC
+Q9Z0F8.3      PNSSTAAKSFEDLTDHPVTRSEKAASFKLQRQSRVDSKETEC
+Q9N2I1.1      ------------------------------------------
+Q5FAJ0.1      ------------------------------------------
+Q9JW42.1      ------------------------------------------
+Q9JXS9.2      ------------------------------------------
+Q12BC9.1      ------------------------------------------
+C4Y7Q2.1      ------------------------------------------
+Q6Z7V2.1      ------------------------------------------

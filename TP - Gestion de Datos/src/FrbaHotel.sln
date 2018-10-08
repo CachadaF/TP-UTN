@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrbaHotel", "FrbaHotel\FrbaHotel.csproj", "{BAFE3016-AC06-4C43-ABEF-87F21AB5699B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrbaHotel.Commons", "FrbaHotel.Commons\FrbaHotel.Commons.csproj", "{3FDB3D80-7159-4E66-86CC-C0A2D0DBDFFB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4384AC20-EC05-4F37-84D4-47D86665F6FB} = {4384AC20-EC05-4F37-84D4-47D86665F6FB}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrbaHotel.Business", "FrbaHotel.Business\FrbaHotel.Business.csproj", "{223B27FF-C0E0-44AD-BF9C-1B468FF645F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{4384AC20-EC05-4F37-84D4-47D86665F6FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAFE3016-AC06-4C43-ABEF-87F21AB5699B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAFE3016-AC06-4C43-ABEF-87F21AB5699B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAFE3016-AC06-4C43-ABEF-87F21AB5699B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAFE3016-AC06-4C43-ABEF-87F21AB5699B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FDB3D80-7159-4E66-86CC-C0A2D0DBDFFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FDB3D80-7159-4E66-86CC-C0A2D0DBDFFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FDB3D80-7159-4E66-86CC-C0A2D0DBDFFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FDB3D80-7159-4E66-86CC-C0A2D0DBDFFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{223B27FF-C0E0-44AD-BF9C-1B468FF645F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{223B27FF-C0E0-44AD-BF9C-1B468FF645F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{223B27FF-C0E0-44AD-BF9C-1B468FF645F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{223B27FF-C0E0-44AD-BF9C-1B468FF645F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4384AC20-EC05-4F37-84D4-47D86665F6FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4384AC20-EC05-4F37-84D4-47D86665F6FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4384AC20-EC05-4F37-84D4-47D86665F6FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4384AC20-EC05-4F37-84D4-47D86665F6FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

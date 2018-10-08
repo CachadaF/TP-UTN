@@ -1,0 +1,9 @@
+D:\TP'S DE LA FACU\Matematica Superior\TP\TP Matematica Superior 2C2013\TP Matematica Superior 2c2013\bin\Debug\tpSuperior2013.exe
+D:\TP'S DE LA FACU\Matematica Superior\TP\TP Matematica Superior 2C2013\TP Matematica Superior 2c2013\bin\Debug\tpSuperior2013.pdb
+D:\TP'S DE LA FACU\Matematica Superior\TP\TP Matematica Superior 2C2013\TP Matematica Superior 2c2013\obj\Debug\ResolveAssemblyReference.cache
+D:\TP'S DE LA FACU\Matematica Superior\TP\TP Matematica Superior 2C2013\TP Matematica Superior 2c2013\obj\Debug\WindowsFormsApplication1.Valores.resources
+D:\TP'S DE LA FACU\Matematica Superior\TP\TP Matematica Superior 2C2013\TP Matematica Superior 2c2013\obj\Debug\WindowsFormsApplication1.Polinomios.resources
+D:\TP'S DE LA FACU\Matematica Superior\TP\TP Matematica Superior 2C2013\TP Matematica Superior 2c2013\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\TP'S DE LA FACU\Matematica Superior\TP\TP Matematica Superior 2C2013\TP Matematica Superior 2c2013\obj\Debug\tpSuperior2013.csproj.GenerateResource.Cache
+D:\TP'S DE LA FACU\Matematica Superior\TP\TP Matematica Superior 2C2013\TP Matematica Superior 2c2013\obj\Debug\tpSuperior2013.exe
+D:\TP'S DE LA FACU\Matematica Superior\TP\TP Matematica Superior 2C2013\TP Matematica Superior 2c2013\obj\Debug\tpSuperior2013.pdb

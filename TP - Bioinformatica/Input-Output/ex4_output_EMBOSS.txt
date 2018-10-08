@@ -1,0 +1,390 @@
+########################################
+# Program: patmatmotifs
+# Rundate: Tue 15 Nov 2016 18:13:56
+# Commandline: patmatmotifs
+#    -sequence /home/manager/Desktop/TP-Bio/Soriasis_genbank.gb
+#    -outfile ./ex4_output_EMBOSS.txt
+#    -sformat1 genbank
+#    -sprotein1
+#    -nofull
+#    -prune
+#    -rformat dbmotif
+#    -auto
+# Report_format: dbmotif
+# Report_file: ./ex4_output_EMBOSS.txt
+########################################
+
+#=======================================
+#
+# Sequence: NM_014068     from: 1   to: 913
+# HitCount: 36
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 12
+Start = position 862 of sequence
+End = position 873 of sequence
+
+Motif = EGF_1
+
+TTGTTCCCTGCCTGGTCCGCTA
+     |          |
+   862          873
+
+Length = 12
+Start = position 851 of sequence
+End = position 862 of sequence
+
+Motif = EGF_1
+
+TTCCTCCCAGGTTGTTCCCTGC
+     |          |
+   851          862
+
+Length = 12
+Start = position 777 of sequence
+End = position 788 of sequence
+
+Motif = EGF_1
+
+CGTTTCCCTCAAGGACCTTTCT
+     |          |
+   777          788
+
+Length = 12
+Start = position 753 of sequence
+End = position 764 of sequence
+
+Motif = EGF_1
+
+AGCCTCCCAGAGAGACCCCTAG
+     |          |
+   753          764
+
+Length = 12
+Start = position 720 of sequence
+End = position 731 of sequence
+
+Motif = EGF_1
+
+CCATTCTCCTTTTGGTCTCAGC
+     |          |
+   720          731
+
+Length = 12
+Start = position 667 of sequence
+End = position 678 of sequence
+
+Motif = EGF_1
+
+CTATCCGCCTCTAGGACCTTGG
+     |          |
+   667          678
+
+Length = 12
+Start = position 564 of sequence
+End = position 575 of sequence
+
+Motif = EGF_1
+
+CTCTTCCCACCCAGAGCTGTTT
+     |          |
+   564          575
+
+Length = 12
+Start = position 316 of sequence
+End = position 327 of sequence
+
+Motif = EGF_1
+
+AGTCACTCTCAAAGAGCTCTCG
+     |          |
+   316          327
+
+Length = 12
+Start = position 184 of sequence
+End = position 195 of sequence
+
+Motif = EGF_1
+
+ACCATCACCCCCGGACCGTGGG
+     |          |
+   184          195
+
+Length = 14
+Start = position 515 of sequence
+End = position 528 of sequence
+
+Motif = THIOLASE_3
+
+CCCAGGATGACTGCAGAAAAGGAA
+     |            |
+   515            528
+
+Length = 12
+Start = position 769 of sequence
+End = position 780 of sequence
+
+Motif = HYDROPHOBIN
+
+CCCTAGAACGTTTCCCTCAAGG
+     |          |
+   769          780
+
+Length = 35
+Start = position 778 of sequence
+End = position 812 of sequence
+
+Motif = ANAPHYLATOXIN_1
+
+GTTTCCCTCAAGGACCTTTCTGCCTGGAAGTCTGTTAGCCTTTCA
+     |                                 |
+   778                                 812
+
+Length = 34
+Start = position 678 of sequence
+End = position 711 of sequence
+
+Motif = ANAPHYLATOXIN_1
+
+TAGGACCTTGGCTCCAACTCTATTGTACTCGTCTCCTCCCTCCC
+     |                                |
+   678                                711
+
+Length = 35
+Start = position 569 of sequence
+End = position 603 of sequence
+
+Motif = ANAPHYLATOXIN_1
+
+CCCACCCAGAGCTGTTTGCATCAGTCCTGCCAATGGCTCCGGAAG
+     |                                 |
+   569                                 603
+
+Length = 36
+Start = position 568 of sequence
+End = position 603 of sequence
+
+Motif = ANAPHYLATOXIN_1
+
+TCCCACCCAGAGCTGTTTGCATCAGTCCTGCCAATGGCTCCGGAAG
+     |                                  |
+   568                                  603
+
+Length = 37
+Start = position 848 of sequence
+End = position 884 of sequence
+
+Motif = CTCK_1
+
+TGATTCCTCCCAGGTTGTTCCCTGCCTGGTCCGCTACCCCACAGTAA
+     |                                   |
+   848                                   884
+
+Length = 37
+Start = position 636 of sequence
+End = position 672 of sequence
+
+Motif = CTCK_1
+
+TCAGCCCCTTCCTCCTCCCTCAGGAATCCACCTATCCGCCTCTAGGA
+     |                                   |
+   636                                   672
+
+Length = 49
+Start = position 733 of sequence
+End = position 781 of sequence
+
+Motif = VWFC_1
+
+GGTCTCAGCTCCTTGATCTAAGCCTCCCAGAGAGACCCCTAGAACGTTTCCCTCAAGGA
+     |                                               |
+   733                                               781
+
+Length = 40
+Start = position 716 of sequence
+End = position 755 of sequence
+
+Motif = VWFC_1
+
+CCTCCCATTCTCCTTTTGGTCTCAGCTCCTTGATCTAAGCCTCCCAGAGA
+     |                                      |
+   716                                      755
+
+Length = 54
+Start = position 667 of sequence
+End = position 720 of sequence
+
+Motif = VWFC_1
+
+CTATCCGCCTCTAGGACCTTGGCTCCAACTCTATTGTACTCGTCTCCTCCCTCCCATTCTCCTT
+     |                                                    |
+   667                                                    720
+
+Length = 55
+Start = position 666 of sequence
+End = position 720 of sequence
+
+Motif = VWFC_1
+
+CCTATCCGCCTCTAGGACCTTGGCTCCAACTCTATTGTACTCGTCTCCTCCCTCCCATTCTCCTT
+     |                                                     |
+   666                                                     720
+
+Length = 48
+Start = position 645 of sequence
+End = position 692 of sequence
+
+Motif = VWFC_1
+
+TCCTCCTCCCTCAGGAATCCACCTATCCGCCTCTAGGACCTTGGCTCCAACTCTATTG
+     |                                              |
+   645                                              692
+
+Length = 51
+Start = position 642 of sequence
+End = position 692 of sequence
+
+Motif = VWFC_1
+
+CCTTCCTCCTCCCTCAGGAATCCACCTATCCGCCTCTAGGACCTTGGCTCCAACTCTATTG
+     |                                                 |
+   642                                                 692
+
+Length = 52
+Start = position 641 of sequence
+End = position 692 of sequence
+
+Motif = VWFC_1
+
+CCCTTCCTCCTCCCTCAGGAATCCACCTATCCGCCTCTAGGACCTTGGCTCCAACTCTATTG
+     |                                                  |
+   641                                                  692
+
+Length = 55
+Start = position 638 of sequence
+End = position 692 of sequence
+
+Motif = VWFC_1
+
+AGCCCCTTCCTCCTCCCTCAGGAATCCACCTATCCGCCTCTAGGACCTTGGCTCCAACTCTATTG
+     |                                                     |
+   638                                                     692
+
+Length = 59
+Start = position 626 of sequence
+End = position 684 of sequence
+
+Motif = VWFC_1
+
+TCCAGCAACCTCAGCCCCTTCCTCCTCCCTCAGGAATCCACCTATCCGCCTCTAGGACCTTGGCTCCAA
+     |                                                         |
+   626                                                         684
+
+Length = 57
+Start = position 616 of sequence
+End = position 672 of sequence
+
+Motif = VWFC_1
+
+GCTGCCAGGCTCCAGCAACCTCAGCCCCTTCCTCCTCCCTCAGGAATCCACCTATCCGCCTCTAGGA
+     |                                                       |
+   616                                                       672
+
+Length = 51
+Start = position 404 of sequence
+End = position 454 of sequence
+
+Motif = VWFC_1
+
+GTCCCCCCCACGTTAATCCTGACCGACTTTGCCACATGGAGCCAGCAAACCATTTCTGGCA
+     |                                                 |
+   404                                                 454
+
+Length = 52
+Start = position 403 of sequence
+End = position 454 of sequence
+
+Motif = VWFC_1
+
+CGTCCCCCCCACGTTAATCCTGACCGACTTTGCCACATGGAGCCAGCAAACCATTTCTGGCA
+     |                                                  |
+   403                                                  454
+
+Length = 44
+Start = position 382 of sequence
+End = position 425 of sequence
+
+Motif = VWFC_1
+
+GATCCCAGCTCCGAGGAAACTCGTCCCCCCCACGTTAATCCTGACCGACTTTGC
+     |                                          |
+   382                                          425
+
+Length = 45
+Start = position 381 of sequence
+End = position 425 of sequence
+
+Motif = VWFC_1
+
+AGATCCCAGCTCCGAGGAAACTCGTCCCCCCCACGTTAATCCTGACCGACTTTGC
+     |                                           |
+   381                                           425
+
+Length = 48
+Start = position 362 of sequence
+End = position 409 of sequence
+
+Motif = VWFC_1
+
+GACCCCAGCTCCTTAACACAGATCCCAGCTCCGAGGAAACTCGTCCCCCCCACGTTAA
+     |                                              |
+   362                                              409
+
+Length = 49
+Start = position 361 of sequence
+End = position 409 of sequence
+
+Motif = VWFC_1
+
+GGACCCCAGCTCCTTAACACAGATCCCAGCTCCGAGGAAACTCGTCCCCCCCACGTTAA
+     |                                               |
+   361                                               409
+
+Length = 43
+Start = position 331 of sequence
+End = position 373 of sequence
+
+Motif = VWFC_1
+
+GCTCTCGGCACACAGACCCCAGCTTTACAAGGACCCCAGCTCCTTAACACAGA
+     |                                         |
+   331                                         373
+
+Length = 54
+Start = position 314 of sequence
+End = position 367 of sequence
+
+Motif = VWFC_1
+
+AAAGTCACTCTCAAAGAGCTCTCGGCACACAGACCCCAGCTTTACAAGGACCCCAGCTCCTTAA
+     |                                                    |
+   314                                                    367
+
+Length = 55
+Start = position 294 of sequence
+End = position 348 of sequence
+
+Motif = VWFC_1
+
+TATGACTTGCACAGACCAAAAAAGTCACTCTCAAAGAGCTCTCGGCACACAGACCCCAGCTTTAC
+     |                                                     |
+   294                                                     348
+
+
+#---------------------------------------
+#---------------------------------------

@@ -1,0 +1,6 @@
+PUERTO=5000
+IP_MSP=127.0.0.1
+PUERTO_MSP=6000
+QUANTUM=3
+SIZESTACK=500
+SYSCALLS=/home/utnso/tp-2014-2c-los-envirusaos/Proceso_Kernel/panel/systemCalls.bc

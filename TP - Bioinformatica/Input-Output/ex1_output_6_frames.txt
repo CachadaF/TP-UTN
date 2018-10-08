@@ -1,0 +1,6 @@
+Bio::Seq::RichSeq=HASH(0x1f470c0)
+Bio::Seq::RichSeq=HASH(0x20cfac0)
+Bio::Seq::RichSeq=HASH(0x20c8e18)
+Bio::Seq::RichSeq=HASH(0x211e6c0)
+Bio::Seq::RichSeq=HASH(0x2128000)
+Bio::Seq::RichSeq=HASH(0x107eea0)

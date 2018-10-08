@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="tpSuperior2013">
+</Property><Property Name="Solution File" Value="D:\TP'S DE LA FACU\Matematica Superior\TP Superior 2013\TP Superior 2013\tpSuperior2013\tpSuperior2013.sln">
+</Property><Property Name="User Options File" Value="D:\TP'S DE LA FACU\Matematica Superior\TP Superior 2013\TP Superior 2013\tpSuperior2013\tpSuperior2013.suo">
+</Property><Property Name="Date" Value="domingo, 17 de noviembre de 2013">
+</Property><Property Name="Time" Value="23:16">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="tpSuperior2013.sln" Description="File successfully backed up as D:\TP'S DE LA FACU\Matematica Superior\TP Superior 2013\TP Superior 2013\tpSuperior2013\Backup\tpSuperior2013.sln">
+</Event><Event ErrorLevel="0" Project="" Source="tpSuperior2013.suo" Description="File successfully backed up as D:\TP'S DE LA FACU\Matematica Superior\TP Superior 2013\TP Superior 2013\tpSuperior2013\Backup\tpSuperior2013.suo">
+</Event><Event ErrorLevel="0" Project="tpSuperior2013" Source="tpSuperior2013.csproj" Description="Project file successfully backed up as D:\TP'S DE LA FACU\Matematica Superior\TP Superior 2013\TP Superior 2013\tpSuperior2013\Backup\tpSuperior2013.csproj">
+</Event><Event ErrorLevel="0" Project="tpSuperior2013" Source="tpSuperior2013.csproj.user" Description="Project user file successfully backed up as D:\TP'S DE LA FACU\Matematica Superior\TP Superior 2013\TP Superior 2013\tpSuperior2013\Backup\tpSuperior2013.csproj.user">
+</Event><Event ErrorLevel="0" Project="tpSuperior2013" Source="Valores.cs" Description="File successfully backed up as D:\TP'S DE LA FACU\Matematica Superior\TP Superior 2013\TP Superior 2013\tpSuperior2013\Backup\Valores.cs">
+</Event><Event ErrorLevel="0" Project="tpSuperior2013" Source="Valores.Designer.cs" Description="File successfully backed up as D:\TP'S DE LA FACU\Matematica Superior\TP Superior 2013\TP Superior 2013\tpSuperior2013\Backup\Valores.Designer.cs">
+</Event><Event ErrorLevel="0" Project="tpSuperior2013" Source="Polinomios.cs" Description="File successfully backed up as D:\TP'S DE LA FACU\Matematica Superior\TP Superior 2013\TP Superior 2013\tpSuperior2013\Backup\Polinomios.cs">
+</Event><Event ErrorLevel="0" Project="tpSuperior2013" Source="Polinomios.Designer.cs" Description="File successfully backed up as D:\TP'S DE LA FACU\Matematica Superior\TP Superior 2013\TP Superior 2013\tpSuperior2013\Backup\Polinomios.Designer.cs">
+</Event><Event ErrorLevel="0" Project="tpSuperior2013" Source="Program.cs" Description="File successfully backed up as D:\TP'S DE LA FACU\Matematica Superior\TP Superior 2013\TP Superior 2013\tpSuperior2013\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="tpSuperior2013" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\TP'S DE LA FACU\Matematica Superior\TP Superior 2013\TP Superior 2013\tpSuperior2013\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="tpSuperior2013" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as D:\TP'S DE LA FACU\Matematica Superior\TP Superior 2013\TP Superior 2013\tpSuperior2013\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="tpSuperior2013" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as D:\TP'S DE LA FACU\Matematica Superior\TP Superior 2013\TP Superior 2013\tpSuperior2013\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="tpSuperior2013" Source="Properties\Settings.settings" Description="File successfully backed up as D:\TP'S DE LA FACU\Matematica Superior\TP Superior 2013\TP Superior 2013\tpSuperior2013\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="tpSuperior2013" Source="Valores.resx" Description="File successfully backed up as D:\TP'S DE LA FACU\Matematica Superior\TP Superior 2013\TP Superior 2013\tpSuperior2013\Backup\Valores.resx">
+</Event><Event ErrorLevel="0" Project="tpSuperior2013" Source="Polinomios.resx" Description="File successfully backed up as D:\TP'S DE LA FACU\Matematica Superior\TP Superior 2013\TP Superior 2013\tpSuperior2013\Backup\Polinomios.resx">
+</Event><Event ErrorLevel="0" Project="tpSuperior2013" Source="Properties\Resources.resx" Description="File successfully backed up as D:\TP'S DE LA FACU\Matematica Superior\TP Superior 2013\TP Superior 2013\tpSuperior2013\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="tpSuperior2013" Source="tpSuperior2013.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="tpSuperior2013" Source="tpSuperior2013.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="tpSuperior2013.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="tpSuperior2013.sln" Description="Converted">
+</Event></UpgradeLog>

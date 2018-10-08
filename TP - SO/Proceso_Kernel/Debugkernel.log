@@ -1,0 +1,133 @@
+14:38:39:803 (5131): Inicializando panel para kernel, en "/home/utnso/workspace/Proceso_Kernel/Debugkernel.log"
+14:38:41:966 (5131): Nueva Consola (10) => [10]
+14:38:42:167 (5131): Hilos ejecutando:
+  NEW:
+    { PID: 1, TID: 0, KM: 0, PC: 0, M: 0 (89b) }
+      { X: 1048576, S: 1048576, A: 0, B: 0, C: 0, D: 0, E: 0 }
+  READY:
+
+  EXEC:
+
+  BLOCK:
+    { PID: 0, TID: 0, KM: 1, PC: 0, M: 0 (333b) }
+      { X: 1048576, S: 1048576, A: 0, B: 0, C: 0, D: 0, E: 0 }
+  EXIT:
+
+14:38:42:167 (5131): Hilos ejecutando:
+  NEW:
+
+  READY:
+    { PID: 1, TID: 0, KM: 0, PC: 0, M: 0 (89b) }
+      { X: 1048576, S: 1048576, A: 0, B: 0, C: 0, D: 0, E: 0 }
+  EXEC:
+
+  BLOCK:
+    { PID: 0, TID: 0, KM: 1, PC: 0, M: 0 (333b) }
+      { X: 1048576, S: 1048576, A: 0, B: 0, C: 0, D: 0, E: 0 }
+  EXIT:
+
+14:38:47:133 (5131): Nueva CPU (11) => [11]
+14:38:47:168 (5131): Hilos ejecutando:
+  NEW:
+
+  READY:
+
+  EXEC:
+    { PID: 1, TID: 0, KM: 0, PC: 0, M: 0 (89b) }
+      { X: 1048576, S: 1048576, A: 0, B: 0, C: 0, D: 0, E: 0 }
+  BLOCK:
+    { PID: 0, TID: 0, KM: 1, PC: 0, M: 0 (333b) }
+      { X: 1048576, S: 1048576, A: 0, B: 0, C: 0, D: 0, E: 0 }
+  EXIT:
+
+14:38:50:535 (5131): Hilos ejecutando:
+  NEW:
+
+  READY:
+    { PID: 1, TID: 0, KM: 0, PC: 21, M: 0 (-1079278632b) }
+      { X: 1048576, S: 1048576, A: 73, B: 73, C: 0, D: 0, E: 0 }
+  EXEC:
+
+  BLOCK:
+    { PID: 0, TID: 0, KM: 1, PC: 0, M: 0 (333b) }
+      { X: 1048576, S: 1048576, A: 0, B: 0, C: 0, D: 0, E: 0 }
+  EXIT:
+
+14:38:50:535 (5131): Hilos ejecutando:
+  NEW:
+
+  READY:
+
+  EXEC:
+    { PID: 1, TID: 0, KM: 0, PC: 21, M: 0 (-1079278632b) }
+      { X: 1048576, S: 1048576, A: 73, B: 73, C: 0, D: 0, E: 0 }
+  BLOCK:
+    { PID: 0, TID: 0, KM: 1, PC: 0, M: 0 (333b) }
+      { X: 1048576, S: 1048576, A: 0, B: 0, C: 0, D: 0, E: 0 }
+  EXIT:
+
+14:38:54:55 (5131): Hilos ejecutando:
+  NEW:
+
+  READY:
+    { PID: 1, TID: 0, KM: 0, PC: 46, M: 0 (-1079278632b) }
+      { X: 1048576, S: 1048576, A: 12, B: 73, C: 1634496328, D: 0, E: 0 }
+  EXEC:
+
+  BLOCK:
+    { PID: 0, TID: 0, KM: 1, PC: 0, M: 0 (333b) }
+      { X: 1048576, S: 1048576, A: 0, B: 0, C: 0, D: 0, E: 0 }
+  EXIT:
+
+14:38:54:55 (5131): Hilos ejecutando:
+  NEW:
+
+  READY:
+
+  EXEC:
+    { PID: 1, TID: 0, KM: 0, PC: 46, M: 0 (-1079278632b) }
+      { X: 1048576, S: 1048576, A: 12, B: 73, C: 1634496328, D: 0, E: 0 }
+  BLOCK:
+    { PID: 0, TID: 0, KM: 1, PC: 0, M: 0 (333b) }
+      { X: 1048576, S: 1048576, A: 0, B: 0, C: 0, D: 0, E: 0 }
+  EXIT:
+
+14:38:57:459 (5131): Hilos ejecutando:
+  NEW:
+
+  READY:
+    { PID: 1, TID: 0, KM: 0, PC: 61, M: 0 (-1079278632b) }
+      { X: 1048576, S: 1048577, A: 11, B: 74, C: 1634496328, D: 0, E: 0 }
+  EXEC:
+
+  BLOCK:
+    { PID: 0, TID: 0, KM: 1, PC: 0, M: 0 (333b) }
+      { X: 1048576, S: 1048576, A: 0, B: 0, C: 0, D: 0, E: 0 }
+  EXIT:
+
+14:38:57:461 (5131): Hilos ejecutando:
+  NEW:
+
+  READY:
+
+  EXEC:
+    { PID: 1, TID: 0, KM: 0, PC: 61, M: 0 (-1079278632b) }
+      { X: 1048576, S: 1048577, A: 11, B: 74, C: 1634496328, D: 0, E: 0 }
+  BLOCK:
+    { PID: 0, TID: 0, KM: 1, PC: 0, M: 0 (333b) }
+      { X: 1048576, S: 1048576, A: 0, B: 0, C: 0, D: 0, E: 0 }
+  EXIT:
+
+14:39:00:979 (5131): Hilos ejecutando:
+  NEW:
+
+  READY:
+
+  EXEC:
+
+  BLOCK:
+    { PID: 0, TID: 0, KM: 1, PC: 0, M: 0 (333b) }
+      { X: 1048576, S: 1048576, A: 0, B: 0, C: 0, D: 0, E: 0 }
+  EXIT:
+
+14:39:14:717 (5131): Desconexión CPU (11) => []

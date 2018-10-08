@@ -1,0 +1,8 @@
+C:\Users\Fede\Desktop\TP Matematica Superior 2c2013\TP Matematica Superior 2C2013\bin\Release\tpSuperior2013.exe
+C:\Users\Fede\Desktop\TP Matematica Superior 2c2013\TP Matematica Superior 2C2013\bin\Release\tpSuperior2013.pdb
+C:\Users\Fede\Desktop\TP Matematica Superior 2c2013\TP Matematica Superior 2C2013\obj\Release\WindowsFormsApplication1.Valores.resources
+C:\Users\Fede\Desktop\TP Matematica Superior 2c2013\TP Matematica Superior 2C2013\obj\Release\WindowsFormsApplication1.Polinomios.resources
+C:\Users\Fede\Desktop\TP Matematica Superior 2c2013\TP Matematica Superior 2C2013\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Fede\Desktop\TP Matematica Superior 2c2013\TP Matematica Superior 2C2013\obj\Release\tpSuperior2013.csproj.GenerateResource.Cache
+C:\Users\Fede\Desktop\TP Matematica Superior 2c2013\TP Matematica Superior 2C2013\obj\Release\tpSuperior2013.exe
+C:\Users\Fede\Desktop\TP Matematica Superior 2c2013\TP Matematica Superior 2C2013\obj\Release\tpSuperior2013.pdb
